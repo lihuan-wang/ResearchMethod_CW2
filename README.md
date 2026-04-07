@@ -22,8 +22,8 @@ Two columns show the percentage change in admission share relative to the pre-lo
 
 | Column | Period |
 |---|---|
-| Lockdown | 2020-2022 |
-| Post-lockdown | 2022-2024 |
+| Lockdown | 2020-2021 |
+| Post-lockdown | 2021-2024 |
 
 - **Red** cells indicate an increase in admission share relative to baseline.
 - **Blue** cells indicate a decrease.
