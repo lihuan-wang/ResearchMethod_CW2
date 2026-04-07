@@ -1,12 +1,10 @@
 # Research Method Coursework 2
 
-## COVID-19 Lockdown Impact on NHS Primary Diagnosis Admissions: Relative Changes Across ICD Categories
-
 This repository contains the visualisation produced for Coursework 2, examining how NHS hospital admission patterns shifted across the COVID-19 lockdown period.
 
 ---
 
-## Figure
+## Figure: COVID-19 Lockdown Impact on NHS Primary Diagnosis Admissions: Relative Changes Across ICD Categories
 
 ![NHS Lockdown Hierarchical Matrix](f_vis/nhs_lockdown_hierarchical_matrix.png)
 
@@ -16,6 +14,10 @@ The figure presents 45 primary diagnosis categories (ICD-10, 3-character codes),
 
 **Left panel — Pre-lockdown admission share (%)**  
 A horizontal bar chart showing each diagnosis's share of total NHS admissions in the pre-lockdown baseline period (2017–2020). Wider bars indicate higher-burden conditions.
+
+| Column | Period |
+|---|---|
+| Pre-lockdown | 2017-2020 |
 
 **Right heatmap — Change in admission share vs pre-lockdown (%)**  
 Two columns show the percentage change in admission share relative to the pre-lockdown baseline:
