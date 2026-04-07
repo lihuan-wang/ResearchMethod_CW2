@@ -8,7 +8,7 @@ This repository contains the visualisation produced for Coursework 2, examining 
 
 ## Figure
 
-
+![NHS Lockdown Hierarchical Matrix](f_vis/nhs_lockdown_hierarchical_matrix.png)
 
 ### What the figure shows
 
