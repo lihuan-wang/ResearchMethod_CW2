@@ -30,7 +30,7 @@ PERIOD_MAP = {
     "2018-19": "pre_lockdown",
     "2019-20": "pre_lockdown",
     "2020-21": "lockdown",
-    "2021-22": "lockdown",
+    "2021-22": "post_lockdown",
     "2022-23": "post_lockdown",
     "2023-24": "post_lockdown",
 }

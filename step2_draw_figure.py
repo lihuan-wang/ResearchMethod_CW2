@@ -55,7 +55,9 @@ def ICD_sort_key(label: str) -> int:
 
 # Shortened labels for display — applied after best_description lookup
 SHORT_DESC = {
+    'B08': 'Viral skin/mucous membrane infections NEC',
     'B99': 'Other/unspecified infectious diseases',
+    'C72': 'Malignant neoplasm of CNS',
     'C90': 'Multiple myeloma & plasma cell neoplasms',
     'C97': 'Multiple primary malignant neoplasms',
     'D12': 'Benign neoplasm: colon/rectum/anus',
@@ -63,18 +65,22 @@ SHORT_DESC = {
     'F05': 'Delirium (non-substance-induced)',
     'I10': 'Essential hypertension',
     'I82': 'Other venous embolism/thrombosis',
+    'J05': 'Acute obstructive laryngitis/epiglottitis',
     'J10': 'Influenza (identified seasonal virus)',
     'J13': 'Pneumococcal pneumonia',
     'J40': 'Bronchitis NOS (not acute/chronic)',
     'M20': 'Acquired deformities of fingers/toes',
     'N86': 'Erosion/ectropion of cervix uteri',
     'O28': 'Abnormal antenatal screening findings',
+    'O10': 'Pre-existing hypertension in pregnancy',
     'O36': 'Maternal care: suspected fetal problems',
     'R60': 'Oedema NEC',
+    'R69': 'Unknown causes of morbidity',
     'U07': 'Emergency use of U07 - include COVID-19',
     'Z12': 'Special cancer screening examination',
     'Z38': 'Liveborn infants (place of birth)',
     'Z42': 'Follow-up care: plastic surgery',
+    'Z41': 'Procedures not remedying health state',
     'Z75': 'Problems: medical facilities/health care',
 }
 
